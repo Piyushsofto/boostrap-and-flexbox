@@ -1,0 +1,14 @@
+@media (max-width:640px){
+    .container1 {
+        flex-direction: column;
+    }
+}
+
+.container1{
+    display: flex;
+    justify-content: center;
+}
+
+.item-1 {
+    /* flex: 2; */
+}
